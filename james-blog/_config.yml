@@ -1,0 +1,11 @@
+title: "James 的博客"
+description: "学习、记录与思考。"
+url: "https://jameslioo.github.io"
+baseurl: ""
+lang: zh-CN
+timezone: Asia/Hong_Kong
+markdown: kramdown
+highlighter: rouge
+permalink: /posts/:title/
+exclude:
+  - README.md
